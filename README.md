@@ -14,9 +14,9 @@ Process
 6. Use the Testing command keys/Function Keys to test further
 
 Submissions must include
-Working .vap
-Completed config.txt file template
-
+Withing a Directory labelled by Product-MaxtrixSize-Type   (ex.  Lightware-32x32-DVI, MatrixPro-8x8-SDI)
+1. Working Vista Advanced 4.0.4 .vap
+2. Completed config.txt file template
 
 If you are interested in working on this, let me know!
 joe@showblender.com
