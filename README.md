@@ -11,7 +11,6 @@ Process
 5. Adjust the connection settings with the Appropriate Protocol and Add the router to the config.
 6. Try a Query Router
 5. Now perform a route using the RouterXY Patch Panel
-6. Use the Testing command keys/Function Keys to test further
 
 Submissions must include
 Withing a Directory labelled by Product-MaxtrixSize-Type   (ex.  Lightware-32x32-DVI, MatrixPro-8x8-SDI)
