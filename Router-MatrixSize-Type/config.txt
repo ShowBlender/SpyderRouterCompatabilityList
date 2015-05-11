@@ -1,0 +1,11 @@
+Matrix Router Configuration
+
+1. Manufacturer : 
+2. Size : 
+3. Connector Type :
+4. Connection Protocol :
+     a. IP Address / Port :
+     b. Serial Settings(Baud/Parity/Stop Bit) / Port :
+5. Spyder Protocol :
+6. Pass Router Query? : 
+7. Additional Notes :
